@@ -19,7 +19,7 @@
   <img src="https://cdn.jsdelivr.net/gh/xandemon/developer-icons/icons/spring.svg" height="48" alt="Spring Boot"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/xandemon/developer-icons/icons/typescript.svg" height="48" alt="TypeScript"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/xandemon/developer-icons/icons/reactjs.svg" height="48" alt="React"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://api.iconify.design/simple-icons:shadcnui.svg?color=%23FFFFFF" height="48" alt="shadcn/ui"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://api.iconify.design/simple-icons:shadcnui.svg?color=%23FFFFFF" height="60" alt="shadcn/ui"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/xandemon/developer-icons/icons/materialui.svg" height="48" alt="Material UI"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/xandemon/developer-icons/icons/html5.svg" height="48" alt="HTML"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/xandemon/developer-icons/icons/css3.svg" height="48" alt="CSS"/>
