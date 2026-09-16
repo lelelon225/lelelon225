@@ -22,31 +22,6 @@
 
 <br/>
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=lelelon225&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=B967FF&text_color=C9D1D9&ring_color=00F5FF"/>
-<img height="165" src="https://nirzak-streak-stats.vercel.app/?user=lelelon225&hide_border=true&background=0D1117&stroke=00F5FF&ring=00F5FF&fire=B967FF&currStreakLabel=00F5FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=6E7681"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lelelon225&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=C9D1D9&langs_count=8"/>
-
-</div>
-
-### 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=lelelon225&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7"/>
-</div>
-
-### 🔥 Top Contributed Repo
-
-<div align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=lelelon225&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
-</div>
-
-<br/>
-
 ### 🛠️ Tech Stack
 
 <div align="center">
