@@ -2,35 +2,24 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1A0000,100:000000&height=200&section=header&text=Hi%20there,%20I'm%20Leon%20%F0%9F%91%8B&fontSize=42&fontColor=FF3B3B&animation=fadeIn&fontAlignY=35&desc=Guitarist%20%7C%20Music%20Addict%20%7C%20Software%20Developer&descAlignY=55&descSize=18&descColor=FF6B6B" width="100%"/>
 
-<a href="https://github.com/lelelon225">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=FF3B3B&center=true&vCenter=true&width=650&lines=%F0%9F%8E%B8+Guitarist+first%2C+developer+second;%F0%9F%8E%A7+Music+runs+in+the+background+of+everything+I+do;%F0%9F%92%BB+Building+things+with+code;%E2%9C%A8+Always+learning+something+new" alt="Typing SVG" />
-</a>
+<p>
+  <img src="https://api.iconify.design/lucide:guitar.svg?color=%23FF3B3B" width="18" height="18" align="center"/>
+  &nbsp;Guitarist first, developer second — always building something new.
+</p>
 
 </div>
 
 <br/>
 
-### 🐍 Contribution Snake
+### <img src="https://api.iconify.design/lucide:code.svg?color=%23FF3B3B" width="22" height="22" align="center"/> Tech Stack
 
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lelelon225/lelelon225/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lelelon225/lelelon225/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/lelelon225/lelelon225/output/github-contribution-grid-snake.svg" width="100%"/>
-</picture>
+<img src="https://skillicons.dev/icons?i=postgres,java,spring,ts,react,mui,html,css&theme=dark" />
 </div>
 
 <br/>
 
-### 🛠️ Tech Stack
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=c,cs,java,html,git,postgres,sqlite,vercel,md&theme=dark" />
-</div>
-
-<br/>
-
-### 🌐 Connect with me
+### <img src="https://api.iconify.design/lucide:link-2.svg?color=%23FF3B3B" width="22" height="22" align="center"/> Connect with me
 
 <div align="center">
 
