@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1A0000,100:000000&height=200&section=header&text=Hi%20there,%20I'm%20Leon%20%F0%9F%91%8B&fontSize=42&fontColor=FF3B3B&animation=fadeIn&fontAlignY=35&desc=Guitarist%20%7C%20Music%20Addict%20%7C%20Software%20Developer&descAlignY=55&descSize=18&descColor=FF6B6B" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:2A0000,100:0D1117&height=200&section=header&text=Hi%20there,%20I'm%20Leon%20%F0%9F%91%8B&fontSize=42&fontColor=FF3B3B&animation=fadeIn&fontAlignY=35&desc=Guitarist%20%7C%20Music%20Addict%20%7C%20Software%20Developer&descAlignY=55&descSize=18&descColor=FF6B6B" width="100%"/>
 
 <p>
   <img src="https://api.iconify.design/lucide:guitar.svg?color=%23FF3B3B" width="18" height="18" align="center"/>
@@ -37,4 +37,4 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1A0000,100:000000&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:2A0000,100:0D1117&height=100&section=footer" width="100%"/>
