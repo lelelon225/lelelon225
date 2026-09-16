@@ -13,9 +13,17 @@
 
 ### <img src="https://api.iconify.design/lucide:code.svg?color=%23FF3B3B" width="22" height="22" align="center"/> Tech Stack
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=postgres,java,spring,ts,react,mui,html,css&theme=dark" />
-</div>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/xandemon/developer-icons/icons/postgresql.svg" height="48" alt="PostgreSQL"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/xandemon/developer-icons/icons/java.svg" height="48" alt="Java"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/xandemon/developer-icons/icons/spring.svg" height="48" alt="Spring Boot"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/xandemon/developer-icons/icons/typescript.svg" height="48" alt="TypeScript"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/xandemon/developer-icons/icons/reactjs.svg" height="48" alt="React"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://api.iconify.design/simple-icons:shadcnui.svg?color=%23FFFFFF" height="48" alt="shadcn/ui"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/xandemon/developer-icons/icons/materialui.svg" height="48" alt="Material UI"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/xandemon/developer-icons/icons/html5.svg" height="48" alt="HTML"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/xandemon/developer-icons/icons/css3.svg" height="48" alt="CSS"/>
+</p>
 
 <br/>
 
