@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1E3A5F,100:0D1117&height=200&section=header&text=Hi%20there,%20I'm%20Leon%20%F0%9F%91%8B&fontSize=42&fontColor=00F5FF&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20Musician%20%7C%20Curious%20Mind&descAlignY=55&descSize=18&descColor=B967FF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1A0000,100:000000&height=200&section=header&text=Hi%20there,%20I'm%20Leon%20%F0%9F%91%8B&fontSize=42&fontColor=FF3B3B&animation=fadeIn&fontAlignY=35&desc=Guitarist%20%7C%20Music%20Addict%20%7C%20Software%20Developer&descAlignY=55&descSize=18&descColor=FF6B6B" width="100%"/>
 
 <a href="https://github.com/lelelon225">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=650&lines=%F0%9F%8E%B8+Playing+guitar+in+my+free+time;%F0%9F%92%BB+Building+things+with+code;%F0%9F%8E%B6+Highly+addicted+to+music;%E2%9C%A8+Always+learning+something+new" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=FF3B3B&center=true&vCenter=true&width=650&lines=%F0%9F%8E%B8+Guitarist+first%2C+developer+second;%F0%9F%8E%A7+Music+runs+in+the+background+of+everything+I+do;%F0%9F%92%BB+Building+things+with+code;%E2%9C%A8+Always+learning+something+new" alt="Typing SVG" />
 </a>
 
 </div>
@@ -40,4 +40,4 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1E3A5F,100:0D1117&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1A0000,100:000000&height=100&section=footer" width="100%"/>
