@@ -31,6 +31,7 @@
 
 <div align="center">
 
+[![Website](https://img.shields.io/badge/Website-%23FF3B3B.svg?style=for-the-badge&logo=googlechrome&logoColor=white)](https://leonhebeisen.com)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/813815023277047840)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/lee0._.0oon)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@leonhebeisen.com)
